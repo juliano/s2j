@@ -1,0 +1,26 @@
+*.class
+*.log
+target/
+.idea/
+.bsp/
+.DS_Store
+env.sh
+.env
+.firebase/
+*.sc
+.sbtopts
+
+.bloop/
+.metals/
+.vscode/
+project/.bloop/
+project/metals.sbt
+project/project/
+
+# Emacs swap files
+\#*
+.\#*
+*.~undo-tree~
+
+# tmp file for monthly statement
+tmp_*
